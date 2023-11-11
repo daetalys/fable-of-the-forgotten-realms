@@ -6,18 +6,18 @@
 script = ExtResource("1_o0e2a")
 
 [node name="Play" type="Button" parent="."]
-offset_left = 558.0
-offset_top = 357.0
-offset_right = 599.0
-offset_bottom = 388.0
+offset_left = 574.0
+offset_top = 325.0
+offset_right = 615.0
+offset_bottom = 356.0
 tooltip_text = "Go ahead...poke it."
 text = "Play"
 
 [node name="Quit" type="Button" parent="."]
-offset_left = 608.0
-offset_top = 357.0
-offset_right = 650.0
-offset_bottom = 388.0
+offset_left = 574.0
+offset_top = 359.0
+offset_right = 616.0
+offset_bottom = 390.0
 tooltip_text = "Are you a quitter?"
 text = "Quit"
 
